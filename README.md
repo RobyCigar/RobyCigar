@@ -1,6 +1,6 @@
 ## Hi there, I'm Rabih, you can call me Roby 👋
 
----
+<br />
 
 ### About me
 
@@ -10,7 +10,7 @@
 - 🥅 2021 Goals: Working as a freelance <br/>
 - 🧗‍♂️️ Fun fact: I do parkour for about 5 years, let me know if there's parkour spot in your area 😅️ <br/>
 
----
+<br />
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Robycigar)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rabih-utomo-36955a1b9/)
 
----
+<br />
 
 ### Languages and Tools:
 
@@ -38,7 +38,7 @@
 <br />
 <br />
 
----
+<br />
 
 ### 📕 Latest Blog Posts
 
@@ -52,7 +52,7 @@
 
 ➡️ [more blog posts...](https://dev.to/rabihcigar)
 
----
+<br />
 
 [![rabih's github stats](https://github-readme-stats.vercel.app/api?username=RobyCigar)](https://github.com/RobyCigar)
 
