@@ -1,17 +1,14 @@
 ## Hi there, I'm Rabih, you can call me Roby 👋
 
 <br />
+
 ### About me
-- ✈️ 
-###### I really want to be a frontend developer and work in europe or east asia country <br/>
-- 🔭 
-###### I'm making blog at dev.to <br/>
-- 🌱 
-###### I’m currently learning everything 🤣<br/>
-- 🥅 
-###### 2021 Goals: Working as a freelance <br/>
-- 🧗‍♂️️ 
-###### Fun fact: I do parkour for about 5 years, let me know if there's parkour spot in your area 😅️ <br/>
+
+- ✈️ I have a dream to become a frontend dev and work in foreign country <br/>
+- 🔭 I'm making blog at dev.to <br/>
+- 🌱 I’m currently learning everything 🤣<br/>
+- 🥅 2021 Goals: Working as a freelance <br/>
+- 🧗‍♂️️ Fun fact: I do parkour for about 5 years, let me know if there's parkour spot in your area 😅️ <br/>
 
 ---
 
