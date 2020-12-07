@@ -41,11 +41,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cara Instalasi ReactJS Bahasa Indonesia](https://dev.to/rabihcigar/cara-instalasi-reactjs-bahasa-indonesia-1291)
+- [Cara Menggunakan leaflet js di React](https://dev.to/rabihcigar/cara-menggunakan-leaflet-js-di-react-1k4h)
 - [Cara install Composer 2 di Linux Ubuntu](https://dev.to/rabihcigar/cara-install-composer-2-di-linux-ubuntu-28j5)
 - [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
 - [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/rabihcigar)
