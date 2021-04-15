@@ -1,4 +1,4 @@
-## Hi there, I'm Rabih 👋
+## Hi there, I'm Roby 👋
 
 <br />
 
@@ -7,10 +7,10 @@
 - 🔭 I'm making blog at dev.to <br/>
 - 🌱 I’m currently learning front-end <br/>
 - ⚛️ React is my main weapon <br/>
-- 🥅 2021 Goals: Working as a freelance <br/>
-- 🧗‍♂️️ Fun fact: I do parkour for about 5 years, let me know if there's parkour spot in your area 😅️ <br/>
 
 <br />
+
+[![rabih's github stats](https://github-readme-stats.vercel.app/api?username=RobyCigar)](https://github.com/RobyCigar)
 
 <br />
 
@@ -28,7 +28,7 @@
 
 <br />
 
-[![rabih's github stats](https://github-readme-stats.vercel.app/api?username=RobyCigar)](https://github.com/RobyCigar)
+
 
 
 
