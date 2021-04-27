@@ -17,11 +17,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Push Git Commit Tanpa Memasukkan Password](https://dev.to/rabihcigar/push-git-commit-tanpa-memasukkan-password-4o8g)
 - [GNU PSPP, Perangkat Lunak Gratis Alternatif SPSS dan Cara Instalasi PSPP](https://dev.to/rabihcigar/gnu-pspp-perangkat-lunak-gratis-alternatif-spss-dan-cara-instalasi-pspp-58m0)
 - [Data Flow Pada Redux](https://dev.to/rabihcigar/data-flow-pada-redux-2d89)
 - [Cara Connect Kamera HP dengan Linux Menggunakan Aplikasi Droidcam](https://dev.to/rabihcigar/cara-connect-kamera-hp-dengan-linux-menggunakan-aplikasi-droidcam-4dg3)
 - [Cara Instalasi ReactJS Bahasa Indonesia](https://dev.to/rabihcigar/cara-instalasi-reactjs-bahasa-indonesia-1291)
-- [Cara Menggunakan leaflet js di React](https://dev.to/rabihcigar/cara-menggunakan-leaflet-js-di-react-1k4h)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/rabihcigar)
