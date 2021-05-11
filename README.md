@@ -6,7 +6,8 @@
 
 - 🔭 I'm making blog at dev.to <br/>
 - 🌱 I’m currently learning front-end <br/>
-- ⚛️ React is my main weapon <br/>
+- ⚛️ Open for work <br/>
+- 🔥 I know how to use vim <br/>
 
 <br />
 
