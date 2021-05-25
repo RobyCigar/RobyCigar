@@ -5,9 +5,10 @@
 ### About me
 
 - 🔭 I'm making blog at dev.to <br/>
-- 🌱 I’m currently learning front-end <br/>
+- 🌱 Interested in Front-end development <br/>
 - ⚛️ Open for work <br/>
 - 🔥 I know how to use vim <br/>
+- 🦀 Currently learn rust <br/>
 
 <br />
 
