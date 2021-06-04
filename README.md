@@ -8,7 +8,6 @@
 - 🌱 Interested in Front-end development <br/>
 - ⚛️ Open for work <br/>
 - 🔥 I know how to use vim <br/>
-- 🦀 Currently learn rust <br/>
 
 <br />
 
