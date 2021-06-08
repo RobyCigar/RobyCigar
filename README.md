@@ -18,11 +18,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
-- [An Intro to NumPy](https://www.gautamkrishnar.com/an-intro-to-numpy/)
-- [Lessons from an attack](https://www.gautamkrishnar.com/lessons-from-an-attack/)
-- [A guide to GitHub CLI](https://www.gautamkrishnar.com/a-guide-to-github-cli/)
-- [Accelerate your startup with the support of big companies!](https://www.gautamkrishnar.com/accelerate-your-startup/)
+- [Ekstensi Sublime Fav](https://dev.to/rabihcigar/kenapa-masih-pakai-sublime-3a99)
+- [Install Kazam di Linux Fedora](https://dev.to/rabihcigar/install-kazam-di-linux-fedora-3l09)
+- [Treating warnings as errors because process.env.CI = true.](https://dev.to/rabihcigar/treating-warnings-as-errors-because-process-env-ci-true-22i4)
+- [Cara Memberi Warna Code Pada GitHub Markdown](https://dev.to/rabihcigar/cara-mewarnai-codingan-pada-github-markdown-3o2l)
+- [Push Git Commit Tanpa Memasukkan Password](https://dev.to/rabihcigar/push-git-commit-tanpa-memasukkan-password-4o8g)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/rabihcigar)
