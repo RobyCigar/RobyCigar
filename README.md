@@ -5,9 +5,8 @@
 ### About me
 
 - 🔭 I'm making blog at dev.to <br/>
-- 🌱 Interested in Front-end development <br/>
-- ⚛️ Open for work <br/>
-- 🔥 I know how to use vim <br/>
+- 🌱 Focusing on Front-end development <br/>
+- 🔥 I know how to exit vim <br/>
 
 <br />
 
