@@ -20,7 +20,7 @@ All rights reserved including the rights of reproduction in whole or in part in 
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Upload Wordpress Theme ke 000webhost](https://dev.to/rabihcigar/cara-upload-wordpress-theme-ke-000webhost-39g0)
+- [ftp_put(): Can’t open that file: No such file or directory](https://dev.to/rabihcigar/cara-upload-wordpress-theme-ke-000webhost-39g0)
 - [Ekstensi Sublime Fav](https://dev.to/rabihcigar/kenapa-masih-pakai-sublime-3a99)
 - [Install Kazam di Linux Fedora](https://dev.to/rabihcigar/install-kazam-di-linux-fedora-3l09)
 - [Treating warnings as errors because process.env.CI = true.](https://dev.to/rabihcigar/treating-warnings-as-errors-because-process-env-ci-true-22i4)
