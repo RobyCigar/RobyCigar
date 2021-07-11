@@ -17,9 +17,10 @@ Carl Sagan, Pale Blue Dot, 1994
 Copyright © 1994 by Carl Sagan, Copyright © 2006 by Democritus Properties, LLC.
 All rights reserved including the rights of reproduction in whole or in part in any form.
 
+<br/>
 
-
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 
