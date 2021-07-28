@@ -19,6 +19,8 @@ All rights reserved including the rights of reproduction in whole or in part in 
 
 <br/>
 
+### Study Notes
+
 <!-- BLOG-POST-LIST:START -->
 - [Cara Update Node js di Linux](https://dev.to/rabihcigar/cara-update-node-js-di-linux-26ii)
 - [ftp_put(): Can’t open that file: No such file or directory](https://dev.to/rabihcigar/cara-upload-wordpress-theme-ke-000webhost-39g0)
