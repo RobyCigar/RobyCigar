@@ -19,7 +19,7 @@ All rights reserved including the rights of reproduction in whole or in part in 
 
 <br/>
 
-<h3>Study Notes</h3>
+<h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Cara Update Node js di Linux](https://dev.to/rabihcigar/cara-update-node-js-di-linux-26ii)
