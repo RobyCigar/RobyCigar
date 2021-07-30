@@ -22,11 +22,11 @@ All rights reserved including the rights of reproduction in whole or in part in 
 <h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel 8 Notes Part 1 - Factory](https://dev.to/rabihcigar/laravel-8-cheatsheet-part-1-factory-254i)
 - [Cara Update Node js di Linux](https://dev.to/rabihcigar/cara-update-node-js-di-linux-26ii)
 - [ftp_put(): Can’t open that file: No such file or directory](https://dev.to/rabihcigar/cara-upload-wordpress-theme-ke-000webhost-39g0)
 - [Ekstensi Sublime Fav](https://dev.to/rabihcigar/kenapa-masih-pakai-sublime-3a99)
 - [Install Kazam di Linux Fedora](https://dev.to/rabihcigar/install-kazam-di-linux-fedora-3l09)
-- [Treating warnings as errors because process.env.CI = true.](https://dev.to/rabihcigar/treating-warnings-as-errors-because-process-env-ci-true-22i4)
 <!-- BLOG-POST-LIST:END -->
 
 
