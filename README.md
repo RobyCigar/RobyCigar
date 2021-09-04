@@ -1,6 +1,11 @@
-<br/>
-
 <h2 align="center">Study Notes</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-lightbrown" />
+  <img src="https://gpvc.arturio.dev/RobyCigar" />
+  <img src="https://img.shields.io/github/followers/RobyCigar?style=social" />
+</p>
+<br/>
 
 <!-- BLOG-POST-LIST:START -->
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
