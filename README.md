@@ -1,11 +1,6 @@
-<h2 align="center">Study Notes</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/OS-Linux-lightbrown" />
-  <img src="https://gpvc.arturio.dev/RobyCigar" />
-  <img src="https://img.shields.io/github/followers/RobyCigar?style=social" />
-</p>
-<br/>
+
+<h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [Cara Record Layar Pake CLI (No GUI)](https://dev.to/rabihcigar/cara-record-layar-pake-cli-no-gui-8ei)
@@ -17,6 +12,13 @@
 
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-lightbrown" />
+  <img src="https://gpvc.arturio.dev/RobyCigar" />
+  <img src="https://img.shields.io/github/followers/RobyCigar?style=social" />
+</p>
+<br/>
 
-
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=robycigar&show_icons=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;" />
+</p>
