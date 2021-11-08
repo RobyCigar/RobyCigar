@@ -3,7 +3,7 @@
 <h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
-- [Cara Record Layar Pake CLI (No GUI)](https://dev.to/rabihcigar/cara-record-layar-pake-cli-no-gui-8ei)
+- [Cara Record Layar Pake CLI &lpar;No GUI&rpar;](https://dev.to/rabihcigar/cara-record-layar-pake-cli-no-gui-8ei)
 - [How To Create Laravel Relationship Tables](https://dev.to/rabihcigar/how-to-create-laravel-relationship-tables-10mi)
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
 - [Apa itu WA RTE CTE dan TLE](https://dev.to/rabihcigar/apa-itu-wa-rte-cte-dan-tle-3gh6)
