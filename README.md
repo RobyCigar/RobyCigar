@@ -1,6 +1,7 @@
 
 
 <h2 align="center">Study Notes</h2>
+Hi, you can call me Roby, I'm 20 yo software developer based in Yogyakarta, Indonesia. My main stack is React, Next, and Laravel.
 
 <!-- BLOG-POST-LIST:START -->
 - [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
