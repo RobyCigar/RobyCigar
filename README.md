@@ -1,6 +1,6 @@
 
-<h2 align="center">Biodata</h2>
-Hi, you can call me Roby, I'm 20 y.o computer science student and I have interest towards frontend development(and backend stuff sometimes) currently live in Yogyakarta, Indonesia. My main stack is React, Next, and Laravel.
+<h2 align="center">About Me</h2>
+Hi, you can call me Roby, I'm 20 y.o computer science student and I have interest towards frontend development(and backend stuff sometimes) currently live in Yogyakarta, Indonesia. My main weapon is React, Next, and Laravel. 
 
 <h2 align="center">Study Notes</h2>
 
