@@ -2,6 +2,8 @@
 <h2 align="center">About Me</h2>
 Hi, you can call me Roby, I'm 20 y.o computer science(kinda) student and I have interest towards frontend development(and backend stuff sometimes) currently live in Yogyakarta, Indonesia. My main weapon is React, Next, Node. 
 
+For more information please run `npx robycigar` on your terminal
+
 <h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
@@ -11,8 +13,6 @@ Hi, you can call me Roby, I'm 20 y.o computer science(kinda) student and I have 
 - [Apa itu WA RTE CTE dan TLE](https://dev.to/robycigar/apa-itu-wa-rte-cte-dan-tle-3gh6)
 - [Instalasi Vue 3 dengan TailwindCSS](https://dev.to/robycigar/menggunakan-vue-3-dengan-tailwindcss-5b25)
 <!-- BLOG-POST-LIST:END -->
-
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-lightbrown" />
