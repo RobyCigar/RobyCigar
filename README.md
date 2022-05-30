@@ -23,6 +23,6 @@ For more information please run `npx robycigar` on your terminal
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=robycigar&show_icons=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html,css&langs_count=3" alt="logo" align="center" style="margin: 5px; margin-bottom: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robycigar&hide=javascript,php,blade,html,css&langs_count=3" alt="logo" align="center" style="margin: 5px; margin-bottom: 20px;" />
 </p>
 
