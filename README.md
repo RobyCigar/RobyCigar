@@ -24,3 +24,7 @@ For more information please run `npx robycigar` on your terminal
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=robycigar&show_icons=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" alt="logo" align="center" style="margin: 5px; margin-bottom: 20px;" />
+</p>
