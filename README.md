@@ -1,8 +1,6 @@
 
 <h2 align="center">About Me</h2>
-Hi, you can call me Roby, I'm 20 y.o, IT student and I have interest towards frontend development currently live in Yogyakarta, Indonesia. My main weapon is React, Next. 
-
-For more information please run `npx robycigar` on your terminal
+For more information about me please run `npx robycigar` on your terminal with nodejs & npm installed on your machine.
 
 <h2 align="center">Study Notes</h2>
 
