@@ -2,6 +2,11 @@
 <h2 align="center">About Me</h2>
 For more information about me please run `npx robycigar` on your terminal with nodejs & npm installed on your machine.
 
+<h2 align="center">Currently Learning</h2>
+
+- [Algorithms & Data Structure](https://en.wikipedia.org/wiki/Algorithm)
+- [Automata Theory](https://en.wikipedia.org/wiki/Automata_theory)
+
 <h2 align="center">Study Notes</h2>
 
 <!-- BLOG-POST-LIST:START -->
