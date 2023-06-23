@@ -12,7 +12,7 @@ class AboutMe {
 -   val yearsOfExperience = 1
 +   val yearsOfExperience = 2
 -   val role = listOf("Frontend Web Engineer")
-+   val role = listOf("Frontend Web Engineer", "Android Engineer")
++   val role = listOf("Frontend Engineer", "Backend Engineer")
 }
 
 ```
