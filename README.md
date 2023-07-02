@@ -42,3 +42,8 @@ class AboutMe {
 <img src="https://github-readme-stats.vercel.app/api?username=robycigar&show_icons=true" alt="logo" height="160" align="center" style="margin: 5px; margin-bottom: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robycigar&hide=php,blade,html,css&langs_count=3" alt="logo" align="center" style="margin: 5px; margin-bottom: 20px;" />
 </p>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/robycigar?border=0&radius=20&ext=activity" alt="logo" height="400" align="center" style="margin: 5px; margin-bottom: 20px;" />
+</p>
+
