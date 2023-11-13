@@ -8,7 +8,7 @@ For more information about me please run `npx robycigar` on your terminal with n
 class AboutMe {
     val firstName = "Rabih"
     val lastName = "Utomo"
-    val linkedin = "https://www.linkedin.com/in/rabih-utomo-36955a1b9/"
+    val linkedin = "https://www.linkedin.com/in/rabih-utomo"
 -   val yearsOfExperience = 1
 +   val yearsOfExperience = 2
 -   val role = listOf("Frontend Web Engineer")
